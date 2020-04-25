@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 5px;
+}
+.top-pix{
+    background-image: url(../images/36.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 100%;
+}
+.my-pix{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-top: -90px;
+    margin-left: 50px;
+}
+.blue{
+    color: rgba(7, 116, 241, 0.781);
+}
+
